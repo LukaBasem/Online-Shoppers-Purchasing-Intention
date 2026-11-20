@@ -133,13 +133,6 @@ Running the notebook from top to bottom recreates `models/best_model.joblib` and
 
 > The code was tested with Python 3.12 and the library versions in `requirements.txt`. If you use different versions, re-run the notebook once so the saved model matches your scikit-learn version.
 
-## 7. Deployment on Hugging Face Spaces (Live Link)
+## 7. Author
 
-1. Create a free account on [huggingface.co](https://huggingface.co) → **New Space** → SDK: **Gradio**.
-2. Upload these files, keeping the same folder structure: `app.py`, `requirements.txt`, and `models/best_model.joblib`.
-3. If the build asks for a Python version, add `python_version: 3.12` to the header (between the `---` lines) at the top of the Space's `README.md`.
-4. Wait for the build to finish, test the app, and copy the Space link into the **Live Demo** line at the top of this file.
-
-## 8. Author
-
-**Luka Basem Wagdy** – Computer Science (AI major), NTI Machine Learning for Data Analysis.
+**Luka Basem Wagdy** – Computer Science Graduate (AI major), NTI Machine Learning for Data Analysis.
