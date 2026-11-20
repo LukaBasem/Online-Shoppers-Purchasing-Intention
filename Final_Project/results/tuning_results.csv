@@ -1,0 +1,4 @@
+Model,CV F1 before tuning,CV F1 after tuning (best_score_),best_params_
+Random Forest,0.6840815303248358,0.6840815303248358,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 100}"
+LightGBM,0.6724699822997201,0.6751204070469425,"{'model__learning_rate': 0.1, 'model__n_estimators': 200, 'model__num_leaves': 31}"
+XGBoost,0.6615172394950829,0.66851710608275,"{'model__learning_rate': 0.1, 'model__max_depth': 5, 'model__n_estimators': 200}"
