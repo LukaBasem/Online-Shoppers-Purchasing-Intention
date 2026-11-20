@@ -4,8 +4,6 @@
 
 Predict whether an online-shopping session will end in a **purchase**, using the visitor's behaviour during the session. The best model is deployed as a **Gradio** web app.
 
-🔗 **Live Demo:** `<paste your Hugging Face Space link here>`
-💻 **GitHub:** `<paste your repository link here>`
 
 ---
 
